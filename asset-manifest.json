@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/securetaskhub/static/css/main.3982bb5f.css",
+    "main.js": "/securetaskhub/static/js/main.141994e2.js",
+    "index.html": "/securetaskhub/index.html",
+    "main.3982bb5f.css.map": "/securetaskhub/static/css/main.3982bb5f.css.map",
+    "main.141994e2.js.map": "/securetaskhub/static/js/main.141994e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.141994e2.js"
+  ]
+}
